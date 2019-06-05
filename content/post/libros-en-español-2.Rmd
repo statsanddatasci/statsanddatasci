@@ -1,0 +1,65 @@
+---
+title: "Libros de R en ESPAÑOL: Parte 2"
+author: "statsanddatascience"
+date: '`r Sys.Date()`'
+categories: []
+tags: ["rstats", "rstatses", "statistics"]
+---
+
+## 8 libros en linea totalmente gratuitos (algunos disponibles para descargar):
+
+### 1. [El arte de programar en R: un lenguaje para la estadística](https://cran.r-project.org/doc/contrib/Santana_El_arte_de_programar_en_R.pdf) by Julio Sergio Santana y Efraín Mateos Farfán
+
+<center>
+![](/img/ArtePro.JPG){height="30%" width="30%"}
+</center>
+
+### 2. [INTRODUCCIóN A LA PROGRAMACIÓN ESTADÍSTICA CON R PARA PROFESORES](https://www.ugr.es/~batanero/pages/ARTICULOS/libroR.pdf) by José Miguel Contreras García, Elena Molina Portillo y Pedro Arteaga Cezón
+
+<center>
+![](/img/ProR.JPG){height="30%" width="30%"}
+</center>
+
+### 3. [Estadística básica con R-Commander](https://www.bubok.es/libros/203887/Estadistica-basica-con-RCommander) by Antonio Matas Terrón, Pablo Daniel Franco Caballero y Lucía Atorrasagasti Alcaraz
+
+<center>
+![](/img/RCom.JPG){height="30%" width="30%"}
+</center>
+
+Debes dar clic en __Descargar__, proporcionar un e-mail, aceptar las condiciones legales y la política de privacidad, y confirmar que no eres un robot. El enlace de descarga te envían a tu e-mail.
+
+
+### 4. [Fundamentos estadísticos para investigación. Introducción a R.](https://www.researchgate.net/publication/275349583_Fundamentos_estadisticos_para_investigacionIntroduccion_a_R) by Antonio Maurandi López, Laura del Río Alonso y Carlos Balsalobre Ródríguez
+
+<center>
+![](/img/FunIntR.JPG){height="30%" width="30%"}
+</center>
+
+### 5. [ECONOMETRÍA APLICADA UTILIZANDO R](http://saree.com.mx/econometriaR/sites/default/files/Ebook_econometriaR.pdf) by ALuis Quintana Romero y Miguel Ángel Mendoza (Coordinadores)
+
+<center>
+![](/img/EcoR.JPG){height="30%" width="30%"}
+</center>
+
+___OTROS ENLACES DE INTERÉS PARA EL LIBRO:___
+
+* http://www.saree.com.mx/unam/EbR
+* http://saree.com.mx/econometriaR/
+
+### 6. [Análisis espacial con R: Usa R como un Sistema de Información Geográfica](http://eujournal.org/files/journals/1/books/JeanFrancoisMas.pdf) by Jean-François Mas
+
+<center>
+![](/img/SpatialR.JPG){height="30%" width="30%"}
+</center>
+
+### 7. [Modelos Lineales Aplicados en R](http://umh3067.edu.umh.es/wp-content/uploads/sites/240/2013/02/Modelos-Lineales-Aplicados-en-R.pdf) by Juan Aparicio, Ma Asunción Martínez Mayoral y Javier Morales
+
+<center>
+![](/img/MLiR.JPG){height="30%" width="30%"}
+</center>
+
+### 8. [Análisis exploratorio y visualización de datos con R](http://www.fcharte.com/libros/ExploraVisualizaConR-Fcharte.pdf) by Francisco Charte Ojeda
+
+<center>
+![](/img/EDAR.JPG){height="30%" width="30%"}
+</center>
