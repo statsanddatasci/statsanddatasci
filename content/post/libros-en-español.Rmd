@@ -1,0 +1,57 @@
+---
+title: "Libros de R en ESPAÑOL: Parte 1"
+author: "statsanddatascience"
+date: '`r Sys.Date()`'
+categories: []
+tags: ["rstats", "rstatses", "statistics"]
+---
+
+## 8 libros en linea totalmente gratuitos (algunos disponibles para descargar):
+
+### 1. [Manual de R](https://fhernanb.github.io/Manual-de-R) by Freddy Hernández y Olga Usuga
+
+<center>
+![](https://fhernanb.github.io/Manual-de-R/images/portada.png){height="30%" width="30%"}
+</center>
+
+### 2. [R para principiantes](https://bookdown.org/jboscomendoza/r-principiantes4/) by Juan Bosco Mendoza Vega
+
+<center>
+![](https://bookdown.org/jboscomendoza/r-principiantes4/images/r-principiantes-cover.png){height="30%" width="30%"}
+</center>
+
+### 3. [Aprender R: iniciación y perfeccionamiento](https://myrbooksp.netlify.com/) by François Rebaudo
+
+<center>
+![](https://myrbooksp.netlify.com/myFigures/cover.png){height="30%" width="30%"}
+</center>
+
+### 4. [AnalizaR Datos Políticos](https://arcruz0.github.io/libroadp/) by Francisco Urdinez y Andrés Cruz Labrín (editores)
+
+<center>
+![](https://arcruz0.github.io/libroadp/00-images/tapa.png){height="30%" width="30%"}
+</center>
+
+### 5. [Introducción a R para el análisis de datos en Ciencias Sociales](https://www.researchgate.net/publication/313970258_Introduccion_a_R_para_el_analisis_de_datos_en_Ciencias_Sociales) by Eduardo Bologna
+
+<center>
+![](/img/IntroR.JPG){height="30%" width="30%"}
+</center>
+
+### 6. [Introducción a estadística con R](https://bookdown.org/matiasandina/R-intro/) by Matias Andina
+
+<center>
+![](/img/IntroStatsR.jpg){height="30%" width="30%"}
+</center>
+
+### 7. [R para profesionales de los datos: una introducción](https://datanalytics.com/libro_r/_main.pdf) by Carlos J. Gil Bellosta
+
+<center>
+![](/img/RProfesi.jpg){height="30%" width="30%"}
+</center>
+
+### 8. [Laboratorio de Estadística y Probabilidad con R](http://lab-est-prob-r.blogspot.com/2013/12/presentacion.html) by Jose Mari Eguzkitza Arrizabalaga
+
+<center>
+![](/img/LibLabR.jpg){height="30%" width="30%"}
+</center>

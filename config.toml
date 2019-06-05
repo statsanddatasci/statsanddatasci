@@ -1,0 +1,33 @@
+baseurl = "/"
+title = "Statisticians and Data Scientists"
+theme = "hugo-theme-nix"
+languageCode = "es-ec"
+disqusShortname = "your_disqus_shortname"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  FacebookID = "statsanddatasci"
+  TwitterID = "statsanddatasci"
+  InstagramID = "statsanddatasci"
+  LinkedInID = "statsanddatasci"
+  #GithubID = "statsanddatasci"
+  #GoogleplusID = "your_googleplus"
+  #TelegramID = "your_telegram"
+  Name = "Statisticians and Data Scientists"
+  HeaderUsername = ""
+  HeaderHostname = "statsanddatasci"
+  Email = "statsanddatasci@gmail.com"
+  About = "Hola, soy el administrador principal de 'statsanddatasci' y esta es mi página web. Soy estadístico en constante aprendizaje y hombre de familia. Me gusta compartir contenido relacionado a la estadística y en la mayoría aplicado con open source softwares (hobby). En esta páginas web puedes esperar algunas publicaciones de terceros pero totalmente gratuitos. ¡Disfruta!"
+  ProfilePicture = "/profile.png"
+  Favicon = "/favicon.ico"
+  #SlackURL = "your_slack_invite_url"
+
