@@ -1,2 +1,2 @@
 # statsanddatasci
-Web site statsanddatasci
+Web site statsanddatasci https://statsanddatasci.netlify.com/
