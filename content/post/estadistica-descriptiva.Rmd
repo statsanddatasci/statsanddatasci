@@ -1,0 +1,124 @@
+---
+title: "Estadística descriptiva con R"
+author: 'statsanddatasci'
+date: '`r Sys.Date()`'
+categories: []
+tags: ["rstas", "rstatses"]
+---
+
+### Datos a utilizar
+
+Se usa el conjunto de datos (dataset) `mtcars`:
+
+```{r}
+head(mtcars)
+```
+
+
+### Estadística descriptiva de la variable `cyl`
+
+1. Tablas de frecuencia
+
+```{r}
+(tablaFrecAbs = table(mtcars$cyl))
+```
+
+Estos resultados anteriores se puede interpretar de la siguiente manera:
+
+14 automóviles tiene 8 cilindros, 11 tiene 4 cilindros y 7 automóviles tienen 6 cilindros.
+
+En ocaciones es má cómodo interpretar en porcentajes:
+
+```{r}
+(tablaFrecAbs = table(mtcars$cyl)/length(mtcars$cyl))*100
+```
+
+Por ejmplo:
+
+El 43.75% de automóviles tienen 8 cilindros.
+
+Con las frecuencias podemos realizar un gráfico de barras
+
+```{r fig.align="center"}
+barplot(tablaFrecAbs)
+```
+
+El mismo gráfico anerior se puede realizar con el paquete [`ggplo2`](https://ggplot2.tidyverse.org/) pero en este caso usando la variable del __dataset__:
+
+```{r fig.align="center", warning=FALSE, message=FALSE}
+library(ggplot2)
+ggplot(mtcars, aes(cyl, ..prop..)) +
+  geom_bar(fill="blue", color="red")
+```
+
+En el gráfico podemos contrastar que existe más automóviles con 8 cilindros.
+
+___Es muy importante endender y tener claro los tipos de variables, aquí hago refefencia una imagen de [conceptosclaros.com](https://conceptosclaros.com/como-analizar-datos/tipos-variables-720x518-5/)___
+
+<center>
+![](https://conceptosclaros.com/wp-content/uploads/2017/06/tipos-variables-720x518-5.jpg){height="50%" width="50%"}
+</center>
+
+### Estadística descriptiva de la variable `disp`
+
+En este caso el tipo de variable es cuantitativa continua.
+
+1. Medidas de tendencia central
+
+Entre las medidas de tendencia central tenemos:
+
+* Media aritmética
+* Media geométrica
+* Media armónica
+* Mediana
+* Moda
+
+```{r warning=FALSE, message=FALSE}
+library(dplyr)
+library(modeest)
+mtcars %>% 
+  summarise(mari =  mean(disp),
+            mgeo = 1/mean(1/disp),
+            marm = prod(disp)^(1/length(disp)),
+            mediana = median(disp),
+            moda = modeest::mlv(disp)) 
+```
+
+El desplazamiento promedio de los automóviles es de 230.72 cu.in., El 50% de automóviles tienen un desplazamiento menor o igual a 196.3 cu.in. y el desplazamiento con mayor frecuencia es de 122.30 cu.in.
+
+1. Medidas de dispersión
+
+* Desviación típica
+* Rango
+* Rango intercuartílico
+* Varianza
+* Desviación media absoluta (MAD)
+* Coeficiente de variación
+
+```{r warning=FALSE, message=FALSE}
+library(dplyr)
+mtcars %>% 
+  summarise(Var =  var(disp),
+            sd = sd(disp),
+            IQR = IQR(disp),
+            cv = sd(disp)/abs(mean(disp))) 
+```
+
+Los datos están dispersos de la media.
+
+3. Medidas de Forma
+
+```{r warning=FALSE, message=FALSE}
+library(e1071)
+skewness(mtcars[,"mpg"],type = 1)
+kurtosis(mtcars[,"mpg"],type = 1)
+```
+
+4. Gráficos
+
+```{r fig.align="center", warning=FALSE, message=FALSE}
+library(ggplot2)
+ggplot(mtcars, aes(disp))+
+  geom_histogram(bins=10)
+```
+
