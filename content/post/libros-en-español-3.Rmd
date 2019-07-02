@@ -1,0 +1,49 @@
+---
+title: "Libros de R en ESPAÑOL: Parte 3"
+author: "statsanddatascience"
+date: '`r Sys.Date()`'
+categories: []
+tags: ["rstats", "rstatses", "statistics"]
+---
+
+## 6 libros de R totalmente gratuitos:
+
+### 1. [Análisis de datos con R](https://www.researchgate.net/publication/266856140_Analisis_de_datos_con_R) by François Husson, Sébastien Lê, Jérôme Pagès
+
+<center>
+![](/img/parte3/03.JPG){height="30%" width="30%"}
+</center>
+
+### 2. [Modelos estadísticos en lenguaje R](http://www.editorial.unrn.edu.ar/media/data/lecturas/garibaldi_lenguajeR_eunrn.pdf) by JLucas Alejandro Garibaldi, Facundo José Oddi, Francisco Javier Aristimuño, Aliosha Nicolás Behnisch
+
+<center>
+![](/img/parte3/06.JPG){height="30%" width="30%"}
+</center>
+
+### 3. [Introducción a la estadística Bayesiana](https://www.researchgate.net/publication/323268899_Introduccion_a_la_estadistica_bayesiana_notas_de_clase) by Juan Carlos Correa Morales y Carlos Javier Barrera Causil
+
+<center>
+![](/img/parte3/04.JPG){height="30%" width="30%"}
+</center>
+
+### 4. [Introducción a los Métodos Numéricos. Implementaciones en R](https://tecdigital.tec.ac.cr/revistamatematica/Libros/WMora_MetodosNumericos/2017_Principal_MetodosNumericos-con-R.pdf) by Walter Mora F.
+
+<center>
+![](/img/parte3/01.JPG){height="30%" width="30%"}
+</center>
+
+### 5. [Introducción a los métodos cuantitativos en arqueología con R](https://www.researchgate.net/publication/314329360_Introduccion_a_los_metodos_cuantitativos_en_arqueologia_con_R_Primera_partemetodos_descriptivos_e_inferenciales_uni_y_bivariados) by Marcelo Cardillo
+
+<center>
+![](/img/parte3/02.JPG){height="30%" width="30%"}
+</center>
+
+### 6. [Introducción al análisis de datos con R y R Commander. en psicología y educación](http://repositorio.ual.es/bitstream/handle/10835/1658/R_Rcmdr_Psi_Edu.pdf) by Jorge López Puga
+
+<center>
+![](/img/parte3/05.JPG){height="30%" width="30%"}
+</center>
+
+
+
+
