@@ -1,0 +1,27 @@
+---
+title: "Libros sobre CIENCIA DE DATOS en ESPAÑOL"
+author: "@statsanddatasci"
+date: '`r Sys.Date()`'
+categories: []
+tags: ["rstats", "rstatses", "statistics", "datascience", "dataanalysis", "bookdown"]
+---
+
+## 3 libros sobre Ciencia de Datos con R totalmente gratuitos:
+
+### 1. [R para Ciencia de Datos](https://es.r4ds.hadley.nz/) by Garrett Grolemund and Hadley Wickham
+
+<center>
+![](/img/DataScience/01.jpg){height="30%" width="30%"}
+</center>
+
+### 2. [Libro Vivo de Ciencia de Datos](https://librovivodecienciadedatos.ai/) by Pablo Casas
+
+<center>
+![](/img/DataScience/02.jpg){height="30%" width="30%"}
+</center>
+
+### 3. [Ciencia de datos para curiosos](https://bookdown.org/martinmontaneb/CienciaDeDatos/) by Martín Montané
+
+<center>
+![](/img/DataScience/03.jpg){height="30%" width="30%"}
+</center>

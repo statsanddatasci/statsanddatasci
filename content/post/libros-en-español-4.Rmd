@@ -1,0 +1,55 @@
+---
+title: "Libros de R en ESPAÑOL: Parte 4"
+author: "@statsanddatasci"
+date: '`r Sys.Date()`'
+categories: []
+tags: ["rstats", "rstatses", "statistics", "datascience", "dataanalysis", "bookdown"]
+---
+
+## 6 libros de R totalmente gratuitos:
+
+### 1. [Fundamentos básicos para manejo de R en Estadística Descriptiva](http://bdigital.unal.edu.co/11824/) by Suárez Cifuentes Julio Fernando and Rojas Medina Ricardo Alfredo
+
+<center>
+![](/img/parte4/01.JPG){height="30%" width="30%"}
+</center>
+
+### 2. [Bioinformática Estadística. Análisis estadístico de datos Ómicos](https://www.uv.es/ayala/docencia/tami/tami13.pdf) by Guillermo Ayala
+
+<center>
+![](/img/parte4/02.JPG){height="30%" width="30%"}
+</center>
+
+### 3. [Estadística Básica](https://www.uv.es/ayala/docencia/nmr/nmr13.pdf) by Guillermo Ayala
+
+<center>
+![](/img/parte4/03.JPG){height="30%" width="30%"}
+</center>
+
+### 4. [Análisis de datos con R](https://www.uv.es/ayala/docencia/ad/ad13.pdf) by Guillermo Ayala
+
+<center>
+![](/img/parte4/04.JPG){height="30%" width="30%"}
+</center>
+
+### 5. [R desde el principio: curso cero de R](https://blog.uclm.es/emiliolcano/curso-cero-de-r/) by Emilio López Cano
+
+<center>
+![](/img/parte4/05.JPG){height="30%" width="30%"}
+</center>
+
+### 6. [Estadística Básica Edulcorada](https://bookdown.org/aquintela/EBE/) by Alejandro Quintela del Rio
+
+<center>
+![](/img/parte4/06.jpg){height="30%" width="30%"}
+</center>
+
+OTRO LIBRO DIGITAL (NO SE USA R) DEL MISMO AUTOR ES:
+
+[P.E.P.E. (Problemas estimulantes de probabilidad y estadística)](https://www.alejandroquintela.com/libros/) by Alejandro Quintela del Rio
+
+<center>
+![](/img/parte4/07.jpg){height="20%" width="20%"}
+</center>
+
+## NOTA: Esta recopilación es vista en Facebook y gracias a [Formación y Asesoría Estadística](https://www.facebook.com/faestadistica/)
