@@ -6,7 +6,7 @@ categories: []
 tags: ["rstats", "rstatses", "statistics", "datascience", "dataanalysis", "bookdown"]
 ---
 
-## 3 libros sobre Ciencia de Datos con R totalmente gratuitos:
+## 4 libros sobre Ciencia de Datos con R totalmente gratuitos:
 
 ### 1. [R para Ciencia de Datos](https://es.r4ds.hadley.nz/) by Garrett Grolemund and Hadley Wickham
 
@@ -24,4 +24,10 @@ tags: ["rstats", "rstatses", "statistics", "datascience", "dataanalysis", "bookd
 
 <center>
 ![](/img/DataScience/03.jpg){height="30%" width="30%"}
+</center>
+
+### 4. [Ciencia de Datos con R](https://rsanchezs.gitbooks.io/ciencia-de-datos-con-r/) by Ruben Sanchez Sancho
+
+<center>
+![](/img/DataScience/04.jpg){height="30%" width="30%"}
 </center>
