@@ -4,8 +4,12 @@ date = "2019-06-01"
 menu = "main"
 +++
 
-statsanddatasci es una fan page que te ofrece varias comunidades en Facebook, puedes UNIRTE a ellas y seguir las reglas:
+@statsanddatasci es una fan page que te ofrece varias comunidades en Facebook y una en Telegram, puedes UNIRTE a ellas y seguir las reglas:
 
+## GRUPO EN TELEGRAM (COMUNICACIÓN EN ESPAÑOL):
+
+* [
+R Python Julia para Ciencia de Datos e Inteligencia Artificial 📊](https://t.me/RStatsPythonJulia_DataScienceAI)
 
 ## GRUPOS EN FACEBOOK (COMUNICACIÓN EN ESPAÑOL):
 
