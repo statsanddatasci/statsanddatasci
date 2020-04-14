@@ -1,0 +1,47 @@
+---
+title: "Libros de R en ESPAÑOL: Parte 5"
+author: "@statsanddatasci"
+date: '`r Sys.Date()`'
+categories: []
+tags: ["rstats", "rstatses", "statistics", "datascience", "dataanalysis", "bookdown"]
+---
+
+## 6 libros de R totalmente gratuitos:
+
+### 1. [Manual de R](https://fhernanb.github.io/Manual-de-R/) by Freddy Hernández, Olga Usuga
+
+<center>
+![](/img/parte5/01.png){height="30%" width="30%"}
+</center>
+
+### 2. [Gráficos con R](https://fhernanb.github.io/Graficos-con-R/) by Freddy Hernández, Juan Carlos Correa
+
+<center>
+![](/img/parte5/02.png){height="30%" width="30%"}
+</center>
+
+### 3. [Análisis de regresión con R](https://fhernanb.github.io/libro_regresion/) by Freddy Hernández, Mauricio Mazo
+
+<center>
+![](/img/parte5/03.png){height="30%" width="30%"}
+</center>
+
+### 4. [Modelos Predictivos](https://fhernanb.github.io/libro_mod_pred/) by Freddy Hernández
+
+<center>
+![](/img/parte5/04.jpg){height="30%" width="30%"}
+</center>
+
+### 5. [Modelos Mixtos con R](https://fhernanb.github.io/libro_modelos_mixtos/) by Freddy Hernández Barajas, Jorge Leonardo López Martínez
+
+<center>
+![](/img/parte5/05.jpg){height="30%" width="30%"}
+</center>
+
+### 6. [Simulación Estadística](https://rubenfcasal.github.io/simbook/) by Rubén Fernández Casal, Ricardo Cao
+
+<center>
+![](/img/parte5/06.jpg){height="30%" width="30%"}
+</center>
+
+## Visita [Statisticians and Data Scientists](https://statsanddatasci.netlify.com/) y síguenos en nuestras redes sociales.
