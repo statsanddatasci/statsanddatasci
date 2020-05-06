@@ -8,7 +8,7 @@ menu = "main"
 
 ## GRUPO EN TELEGRAM (COMUNICACIÓN EN ESPAÑOL):
 
-* [R Python Julia para Ciencia de Datos e Inteligencia Artificial](https://t.me/RStatsPythonJulia_DataScienceAI)
+* [Ciencia de Datos y Machine Learning: R, Python y Julia](https://t.me/DataScienceML_RStatsPythonJulia)
 
 ## GRUPOS EN FACEBOOK (COMUNICACIÓN EN ESPAÑOL):
 
