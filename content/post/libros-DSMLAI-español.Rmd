@@ -1,0 +1,69 @@
+---
+title: "Libros sobre DATA SCIENCE y MACHINE LEARNING en ESPAÑOL"
+author: "@statsanddatasci"
+date: '`r Sys.Date()`'
+categories: []
+tags: ["rstats", "rstatses", "statistics", "datascience", "dataanalysis", "bookdown", "machinelearning", "datascience", "deeplearning", "artificialintelligence"]
+---
+
+## Libros sobre DATA SCIENCE y MACHINE LEARNING con R totalmente gratuitos:
+
+### 1. R para Ciencia de Datos by Garrett Grolemund and Hadley Wickham [Click Aquí](https://es.r4ds.hadley.nz/)
+
+<center>
+![](/img/DSMLAI/01.jpg){height="30%" width="30%"}
+</center>
+
+### 2. Libro Vivo de Ciencia de Datos by Pablo Casas [Click Aquí](https://librovivodecienciadedatos.ai/)
+
+<center>
+![](/img/DSMLAI/02.jpg){height="30%" width="30%"}
+</center>
+
+### 3. Data Science con R. Análisis de Datos y algoritmos de predicción con R by Daniel Paredes Inilupu [Click Aquí](https://bookdown.org/dparedesi/data-science-con-r/)
+
+<center>
+![](/img/DSMLAI/03.jpg){height="30%" width="30%"}
+</center>
+
+### 4. Estadística y Machine Learning con R by Francisco Parra [Click Aquí](https://bookdown.org/content/2274/portada.html)
+
+<center>
+![](/img/DSMLAI/04.jpg){height="30%" width="30%"}
+</center>
+
+### 5. Aprendizaje de máquina by Felipe González [Click Aquí](https://felipegonzalez.github.io/aprendizaje-maquina-mcd-2018/)
+
+<center>
+![](/img/DSMLAI/05.jpg){height="30%" width="30%"}
+</center>
+
+### 6. Ciencia de datos para curiosos by Martin Montane [Click Aquí](https://martinmontane.github.io/CienciaDeDatosBook/)
+
+<center>
+![](/img/DSMLAI/06.jpg){height="30%" width="30%"}
+</center>
+
+### 7. Ciencia de Datos para Gente Sociable by Antonio Vazquez Brust [Click Aquí](https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/)
+
+<center>
+![](/img/DSMLAI/07.jpg){height="30%" width="30%"}
+</center>
+
+### 8. Ciencia de Datos con R by Rubén Sánchez Sancho [Click Aquí](https://rsanchezs.gitbooks.io/ciencia-de-datos-con-r/)
+
+<center>
+![](/img/DSMLAI/08.jpg){height="30%" width="30%"}
+</center>
+
+### 9. La Era de las máquinas inteligentes. Libro online de IAAR [Click Aquí](https://iaarbook.github.io/)
+
+<center>
+![](/img/DSMLAI/09.jpg){height="30%" width="30%"}
+</center>
+
+## Visita [Statisticians and Data Scientists](https://statsanddatasci.netlify.com/) y [síguenos](https://statsanddatasci.netlify.com/) en nuestras [redes sociales](https://statsanddatasci.netlify.com/).
+
+## ÚNETE a nuestros grupos de Telegram y Facebook en [este link](https://statsanddatasci.netlify.app/about/)
+
+## Si te gusta mi contenido APÓYAME PARA UN CAFÉ [☕AQUÍ](https://www.paypal.me/guamandseduardo/) 
